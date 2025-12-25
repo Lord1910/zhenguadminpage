@@ -1,0 +1,1 @@
+const o={login:"登录",register:"注册",codeLogin:"验证码登录",qrcodeLogin:"二维码登录",forgetPassword:"忘记密码",profile:"个人中心"},t={title:"概览",analytics:"分析页",workspace:"工作台"},e={title:"用户管理",distributor:"分销商管理"},s={auth:o,dashboard:t,user:e};export{o as auth,t as dashboard,s as default,e as user};
