@@ -1,1 +1,0 @@
-import{_ as o}from"./notification-setting.vue_vue_type_script_setup_true_lang-BzZegEH_.js";import"./bootstrap-C7OiZGIt.js";import"../jse/index-index-Ds9Bk5wW.js";import"./Switch.vue_vue_type_script_setup_true_lang-CO7E0Xxi.js";export{o as default};
