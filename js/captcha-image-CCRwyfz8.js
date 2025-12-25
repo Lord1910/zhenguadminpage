@@ -1,1 +1,0 @@
-import{a1 as c,ap as r,aj as n}from"../jse/index-index-CQecEqfk.js";const a=["src"],l=c({__name:"captcha-image",props:{src:{}},emits:["click"],setup(t){return(o,e)=>(n(),r("img",{src:t.src,alt:"验证码",class:"h-10 w-full cursor-pointer rounded border object-contain transition-opacity hover:opacity-80",onClick:e[0]||(e[0]=s=>o.$emit("click"))},null,8,a))}});export{l as default};
