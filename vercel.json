@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api-common/:path*",
+      "destination": "https://common.apifm.com/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
